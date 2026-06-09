@@ -86,7 +86,7 @@ The dashboard was designed with a single objective: **help decision-makers ident
 
 Rather than creating a collection of charts, I structured the dashboard around how executives naturally consume information.
 
-### Information Hierarchy
+### - Information Hierarchy
 
 The layout follows a top-down analytical flow:
 
@@ -97,18 +97,15 @@ The layout follows a top-down analytical flow:
 
 This layered approach enables users to move from high-level performance monitoring to detailed analysis without losing context.
 
-### Interactive Experience
+### - Interactive Experience
 
 To reduce dashboard complexity and improve usability, I implemented a dynamic metric selector that allows users to switch between:
 
-* Sales
-* Profit
-* Profit Ratio
-* Quantity
+> Sales, Profit, Profit Ratio, & Quantity
 
 This transforms the entire dashboard instantly, providing multiple analytical perspectives without requiring separate reports.
 
-### Design Principles
+### - Design Principles
 
 The dashboard was built around several core principles:
 
@@ -117,7 +114,7 @@ The dashboard was built around several core principles:
 * **Accessibility** — color choices and visual indicators were selected to remain readable for all users.
 * **Actionability** — conditional formatting highlights important opportunities and risks automatically.
 
-### Outcome
+### - Outcome
 
 The result is an executive dashboard that balances simplicity and analytical depth, enabling stakeholders to quickly understand performance, identify emerging issues, and make data-driven decisions with confidence.
 
@@ -130,7 +127,7 @@ The result is an executive dashboard that balances simplicity and analytical dep
 
 <br>
 
-### Home Office Is the Fastest-Growing Segment
+### --- Home Office Is the Fastest-Growing Segment
 
 Home Office delivered the strongest year-over-year growth while consistently maintaining the highest profitability levels across the business.
 
@@ -138,7 +135,7 @@ Despite being the smallest segment, its growth rate and efficiency suggest signi
 
 <br>
 
-### Corporate Revenue Increased While Profit Declined
+### --- Corporate Revenue Increased While Profit Declined
 
 One of the most important findings was the disconnect between revenue and profit within the Corporate segment.
 
@@ -146,7 +143,7 @@ While sales increased, profit declined, indicating potential issues related to d
 
 <br>
 
-### Furniture Generates Revenue but Very Little Profit
+### --- Furniture Generates Revenue but Very Little Profit
 
 Furniture produced substantial revenue but operated at a significantly lower profit margin than Technology and Office Supplies.
 
@@ -154,7 +151,7 @@ This suggests pricing, discounting, or cost-related challenges that require furt
 
 <br>
 
-### Hidden Profit Drivers Exist Across the Product Portfolio
+### --- Hidden Profit Drivers Exist Across the Product Portfolio
 
 Products such as Paper, Labels, Envelopes, and Copiers consistently generated some of the highest profit margins in the dataset.
 
@@ -162,7 +159,7 @@ These products represent opportunities for targeted promotions, bundling strateg
 
 <br>
 
-### Revenue Growth Is Outpacing Profit Growth
+### --- Revenue Growth Is Outpacing Profit Growth
 
 Although the business expanded throughout the four-year period, profitability did not improve at the same pace.
 
