@@ -109,10 +109,10 @@ This transforms the entire dashboard instantly, providing multiple analytical pe
 
 The dashboard was built around several core principles:
 
-* **Clarity over complexity** — every visual serves a specific business question.
-* **Progressive disclosure** — users can move from summary metrics to detailed insights naturally.
-* **Accessibility** — color choices and visual indicators were selected to remain readable for all users.
-* **Actionability** — conditional formatting highlights important opportunities and risks automatically.
+* **Clarity over complexity** - every visual serves a specific business question.
+* **Progressive disclosure** - users can move from summary metrics to detailed insights naturally.
+* **Accessibility** - color choices and visual indicators were selected to remain readable for all users.
+* **Actionability** - conditional formatting highlights important opportunities and risks automatically.
 
 ### - Outcome
 
