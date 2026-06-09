@@ -16,6 +16,11 @@ Using four years of Superstore sales data (2015–2018), this project combines b
 <br>
 <br>
 
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/76604469-9c8e-4dbe-b025-f21684da9f2e" width="300">
+</p>
+
 ## Summary
 
 At first glance, the business appeared healthy: revenue, profit, and sales volume were all growing.
@@ -27,6 +32,8 @@ While revenue continued to increase, profitability was deteriorating across some
 To help stakeholders identify these patterns quickly, I designed a fully interactive executive dashboard that enables users to analyze performance across customers, products, categories, and time through a single interface.
 
 The result is a decision-support tool that transforms raw data into actionable business insights.
+
+---
 
 <br>
 <br>
@@ -47,6 +54,8 @@ The goal of this project was to build a dashboard capable of answering a simple 
 
 > **Where should the business focus its efforts to maximize profitable growth?**
 
+---
+
 <br>
 <br>
 
@@ -65,6 +74,8 @@ The dashboard enables stakeholders to:
 * Generate actionable recommendations based on data
 
 A dynamic metric selector allows every visualization to instantly switch between Sales, Profit, Profit Ratio, and Quantity, enabling multiple analytical perspectives without leaving the dashboard.
+
+---
 
 <br>
 <br>
@@ -110,11 +121,14 @@ The dashboard was built around several core principles:
 
 The result is an executive dashboard that balances simplicity and analytical depth, enabling stakeholders to quickly understand performance, identify emerging issues, and make data-driven decisions with confidence.
 
+---
 
 <br>
 <br>
 
 ## Key Insights
+
+<br>
 
 ### Home Office Is the Fastest-Growing Segment
 
@@ -122,11 +136,15 @@ Home Office delivered the strongest year-over-year growth while consistently mai
 
 Despite being the smallest segment, its growth rate and efficiency suggest significant untapped potential.
 
+<br>
+
 ### Corporate Revenue Increased While Profit Declined
 
 One of the most important findings was the disconnect between revenue and profit within the Corporate segment.
 
 While sales increased, profit declined, indicating potential issues related to discounting, pricing strategy, or product mix.
+
+<br>
 
 ### Furniture Generates Revenue but Very Little Profit
 
@@ -134,17 +152,23 @@ Furniture produced substantial revenue but operated at a significantly lower pro
 
 This suggests pricing, discounting, or cost-related challenges that require further investigation.
 
+<br>
+
 ### Hidden Profit Drivers Exist Across the Product Portfolio
 
 Products such as Paper, Labels, Envelopes, and Copiers consistently generated some of the highest profit margins in the dataset.
 
 These products represent opportunities for targeted promotions, bundling strategies, and recurring purchase programs.
 
+<br>
+
 ### Revenue Growth Is Outpacing Profit Growth
 
 Although the business expanded throughout the four-year period, profitability did not improve at the same pace.
 
 This signals potential margin compression and highlights the importance of balancing growth with efficiency.
+
+---
 
 <br>
 <br>
@@ -162,7 +186,7 @@ Based on the analysis, several strategic actions emerged:
 ### Growth Opportunities
 
 * Increase investment in the Home Office segment.
-* Expand promotion of high-margin products such as Copiers.
+* Expand promotion of high-margin product subcategories such as Copiers.
 * Develop repeat-purchase initiatives for Paper, Labels, and Envelopes.
 
 ### Long-Term Monitoring
@@ -171,24 +195,22 @@ Based on the analysis, several strategic actions emerged:
 * Monitor margin trends alongside revenue growth.
 * Establish profitability targets at the category level.
 
-<br>
-<br>
+---
 
+<br>
+<br>
 
 ## Explore & Interact Yourself
 
-🔗 **Live Dashboard Access:** 
-
+**Live Dashboard Access:** 
 
 [Click here to View the live Dashboard](https://public.tableau.com/views/superstore-dashboarddesign/StrategicPerformanceGrowthOverviewDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-
-📝 **Medium Story:** 
-
+**Full Medium Story:** 
 
 [Click here to Read the Article on Medium](YOUR_MEDIUM_ARTICLE_LINK)
 
-
+---
 
 <br>
 <br>
@@ -201,4 +223,16 @@ This project demonstrates how thoughtful dashboard design and business-focused a
 
 Rather than simply reporting historical performance, the dashboard helps stakeholders understand what is driving results and where future attention should be focused.
 
+---
 
+<br>
+<br>
+
+## Let’s Connect!
+
+**Have feedback or want to collaborate?**  
+Feel free to reach out or follow along on [LinkedIn](https://www.linkedin.com/in/iamomardarwesh/), [Email](mailto:omarelsayeddarwesh@gmail.com) or [Medium](https://medium.com/@IamOmarDarwesh).
+
+
+<br>
+<br>
