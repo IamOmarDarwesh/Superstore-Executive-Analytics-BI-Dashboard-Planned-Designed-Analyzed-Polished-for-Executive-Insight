@@ -7,7 +7,7 @@
 
 An interactive Tableau dashboard designed to help decision-makers move beyond reporting and understand the drivers behind revenue growth, profitability, customer behavior, and product performance.
 
-Using four years of Superstore sales data (2015-2018), this project combines business intelligence, data visualization, and data storytelling to uncover opportunities, identify risks, and support more informed decision-making.
+Using four years of Superstore sales data (2015 - 2018), this project combines business intelligence, data visualization, and data storytelling to uncover opportunities, identify risks, and support more informed decision-making.
 
 <br>
 
