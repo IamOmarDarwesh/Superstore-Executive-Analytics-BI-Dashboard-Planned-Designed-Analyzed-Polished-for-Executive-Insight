@@ -123,7 +123,7 @@ The result is an executive dashboard that balances simplicity and analytical dep
 <br>
 <br>
 
-## Key Insights
+## Some of Key Insights
 
 <br>
 
@@ -170,7 +170,7 @@ This signals potential margin compression and highlights the importance of balan
 <br>
 <br>
 
-## Business Recommendations
+## Some of Business Recommendations
 
 Based on the analysis, several strategic actions emerged:
 
